@@ -1,5 +1,4 @@
-# learning python smart contract
-
+# Python Smart Contract Development
 
 # Contents
 
