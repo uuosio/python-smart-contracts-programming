@@ -1,18 +1,20 @@
-# Python Smart Contract Development
+# Python智能合约编程
 
-# Contents
+# 内容
 
-> - [Python Smart Contrace Development -- Environment](Python-Smart-Contract-Development--Environment.pdf)
-> - [Python Smart Contrace Development -- Wallet](Python-Smart-Contract-Development--Wallet.ipynb)
-
-
-# Videos
-
-> - [Python Smart Contrace Development -- Environment](https://youtu.be/x6WWYkP_drI)
-> - [Python Smart Contrace Development -- Wallet](https://youtu.be/5KxC7gfcDVo)
+> - [1.Python智能合约编程--环境搭建](Python-Smart-Contract-Development--Environment.pdf)
+> - [2.Python智能合约编程--钱包模块](Python-Smart-Contract-Development--Wallet.ipynb)
 
 
+# 在线视频
 
-# Contact me
+> - [1.Python智能合约编程--环境搭建](https://youtu.be/x6WWYkP_drI)
+> - [2.Python智能合约编程--钱包模块](https://youtu.be/5KxC7gfcDVo)
+
+# 视频下载
+链接: https://pan.baidu.com/s/1PHXEZYzN6ES1gtFwq2aifQ 
+提取码: aat5
+
+# 联系方式
 ![](images/IMG_1056.JPG)
 
