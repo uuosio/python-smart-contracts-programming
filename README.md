@@ -19,8 +19,8 @@
 > - [6.Python智能合约编程--common functions](https://youtu.be/-CwgURoh0VU)
 
 # 视频下载
-链接: https://pan.baidu.com/s/1PHXEZYzN6ES1gtFwq2aifQ 
-提取码: aat5
+链接: https://pan.baidu.com/s/1OxSbikm3a7VWcF-av1ttvA
+提取码: rt4w
 
 # 联系方式
 ![](images/IMG_1056.JPG)
