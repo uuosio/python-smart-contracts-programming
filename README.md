@@ -7,8 +7,7 @@
 > - [3.Python智能合约编程--eosapi模块](Python-Smart-Contract-Development--eosapi.ipynb)
 > - [4.Python智能合约编程--helloworld](Python-Smart-Contract-Development--helloworld.ipynb)
 > - [5.Python智能合约编程--name-transaction-action](Python-Smart-Contract-Development--name-transaction-action.ipynb)
-
-
+> - [6.Python智能合约编程--common functions](Python-Smart-Contract-Development--Common-functions.ipynb)
 
 # 在线视频
 
@@ -16,7 +15,8 @@
 > - [2.Python智能合约编程--wallet模块](https://youtu.be/5KxC7gfcDVo)
 > - [3.Python智能合约编程--eosapi模块](https://youtu.be/lb9F_SBtHEg)
 > - [4.Python智能合约编程--helloworld](https://youtu.be/XJRxuMOJwWo)
-> - [5.Python智能合约编程--name-transaction-action](https://youtu.be/OK-FDVKiJJk)
+> - [5.Python智能合约编程--name transaction action](https://youtu.be/OK-FDVKiJJk)
+> - [6.Python智能合约编程--common functions](https://youtu.be/-CwgURoh0VU)
 
 # 视频下载
 链接: https://pan.baidu.com/s/1PHXEZYzN6ES1gtFwq2aifQ 
