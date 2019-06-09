@@ -2,7 +2,7 @@
 
 # 内容
 
-> - [1.Python智能合约编程--环境搭建](01.Python-Smart-Contract-Development--Environment.pdf)
+> - [1.Python智能合约编程--环境搭建](01.Python-Smart-Contract-Development--Environment.ipynb)
 > - [2.Python智能合约编程--钱包模块](02.Python-Smart-Contract-Development--Wallet.ipynb)
 > - [3.Python智能合约编程--eosapi模块](03.Python-Smart-Contract-Development--eosapi.ipynb)
 > - [4.Python智能合约编程--helloworld](04.Python-Smart-Contract-Development--helloworld.ipynb)
