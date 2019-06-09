@@ -12,14 +12,7 @@
 
 # 在线视频
 
-> - [1.Python智能合约编程--环境搭建](https://youtu.be/pEj6Mikt7mE)
-> - [2.Python智能合约编程--wallet模块](https://youtu.be/5KxC7gfcDVo)
-> - [3.Python智能合约编程--eosapi模块](https://youtu.be/lb9F_SBtHEg)
-> - [4.Python智能合约编程--helloworld](https://youtu.be/XJRxuMOJwWo)
-> - [5.Python智能合约编程--name transaction action](https://youtu.be/OK-FDVKiJJk)
-> - [6.Python智能合约编程--common functions](https://youtu.be/-CwgURoh0VU)
-> - [7.Python智能合约编程--require_recipient函数](https://youtu.be/mJPjcl1Ucsw)
-
+[Python Smart Contract Development](https://www.youtube.com/watch?v=pEj6Mikt7mE&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf)
 
 
 # 视频下载
