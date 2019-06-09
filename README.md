@@ -8,6 +8,7 @@
 > - [4.Python智能合约编程--helloworld](Python-Smart-Contract-Development--helloworld.ipynb)
 > - [5.Python智能合约编程--name-transaction-action](Python-Smart-Contract-Development--name-transaction-action.ipynb)
 > - [6.Python智能合约编程--common functions](Python-Smart-Contract-Development--Common-functions.ipynb)
+> - [7.Python智能合约编程--require_recipient函数](Python-Smart-Contract-Development--require_recipient.ipynb)
 
 # 在线视频
 
@@ -17,6 +18,8 @@
 > - [4.Python智能合约编程--helloworld](https://youtu.be/XJRxuMOJwWo)
 > - [5.Python智能合约编程--name transaction action](https://youtu.be/OK-FDVKiJJk)
 > - [6.Python智能合约编程--common functions](https://youtu.be/-CwgURoh0VU)
+> - [7.Python智能合约编程--require_recipient函数](https://youtu.be/mJPjcl1Ucsw)
+
 
 # 视频下载
 链接: https://pan.baidu.com/s/1OxSbikm3a7VWcF-av1ttvA
