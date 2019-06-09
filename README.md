@@ -12,7 +12,7 @@
 
 # 在线视频
 
-> - [1.Python智能合约编程--环境搭建](https://youtu.be/x6WWYkP_drI)
+> - [1.Python智能合约编程--环境搭建](https://youtu.be/pEj6Mikt7mE)
 > - [2.Python智能合约编程--wallet模块](https://youtu.be/5KxC7gfcDVo)
 > - [3.Python智能合约编程--eosapi模块](https://youtu.be/lb9F_SBtHEg)
 > - [4.Python智能合约编程--helloworld](https://youtu.be/XJRxuMOJwWo)
