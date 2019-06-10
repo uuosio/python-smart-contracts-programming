@@ -9,6 +9,8 @@
 > - [5.Python智能合约编程--name-transaction-action](05.Python-Smart-Contract-Development--name-transaction-action.ipynb)
 > - [6.Python智能合约编程--common functions](06.Python-Smart-Contract-Development--Common-functions.ipynb)
 > - [7.Python智能合约编程--require_recipient函数](07.Python-Smart-Contract-Development--require_recipient.ipynb)
+> - [8.Python智能合约编程--require_recipient函数-续](008.Python-Smart-Contract-Development--require_recipient-2.ipynb)
+
 
 # 在线视频
 
