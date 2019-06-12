@@ -11,7 +11,7 @@
 > - [7.Python智能合约编程--require_recipient函数](07.Python-Smart-Contract-Development--require_recipient.ipynb)
 > - [8.Python智能合约编程--require_recipient函数-续](008.Python-Smart-Contract-Development--require_recipient-2.ipynb)
 > - [9.Python智能合约编程--send_inline函数](09.Python-Smart-Contract-Development--send_inline.ipynb)
-> - [10.Python智能合约编程--Deferred-transaction](10.Python Smart Contract Development--Deferred transaction.ipynb)
+> - [10.Python智能合约编程--Deferred-transaction](10.Python-Smart-Contract-Development--Deferred-transaction.ipynb)
 
 
 # 在线视频
