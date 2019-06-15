@@ -30,6 +30,7 @@
 > - [10.Python智能合约编程--Deferred-transaction](https://www.youtube.com/watch?v=FnRRrez8wAI&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=10)
 > - [11.Python智能合约编程--authority](https://www.youtube.com/watch?v=zbFsOWpGYRg&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=11)
 > - [12.Python智能合约编程--multisign](https://www.youtube.com/watch?v=pcLRkzgY23U&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=12)
+> - [13.Python智能合约编程--token](https://www.youtube.com/watch?v=8p4KTk8WYx0&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=13)
 
 
 # 联系方式
