@@ -33,5 +33,5 @@
 > - [11.Python Smart Contract Programming--authority](https://www.youtube.com/watch?v=zbFsOWpGYRg&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=11)
 > - [12.Python Smart Contract Programming--multisign](https://www.youtube.com/watch?v=pcLRkzgY23U&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=12)
 > - [13.Python Smart Contract Programming--token](https://www.youtube.com/watch?v=8p4KTk8WYx0&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=13)
-> - [14.Python Smart Contract Programming--ABI](https://www.youtube.com/watch?v=xLqy2ow4JrY&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=14)
+> - [14.Python Smart Contract Programming--ABI](https://www.youtube.com/watch?v=QhrYOBy0vLU&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=14)
 
