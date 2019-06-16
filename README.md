@@ -1,6 +1,6 @@
 # Python Smart Contract Programming
 
-# 内容
+# Contents
 
 > - [1.Python Smart Contract Programming--Environment](01.Python-Smart-Contract-Development--Environment.ipynb)
 > - [2.Python Smart Contract Programming--Wallet](02.Python-Smart-Contract-Development--Wallet.ipynb)
@@ -16,7 +16,7 @@
 > - [12.Python Smart Contract Programming--multisign](12.Python-Smart-Contract-Development--multi-sign.ipynb)
 
 
-# 在线视频
+# Videos
 
 > - [1.Python Smart Contract Programming--Environment](https://www.youtube.com/watch?v=pEj6Mikt7mE&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=1)
 > - [2.Python Smart Contract Programming--wallet](https://www.youtube.com/watch?v=5KxC7gfcDVo&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=2)
@@ -31,7 +31,3 @@
 > - [11.Python Smart Contract Programming--authority](https://www.youtube.com/watch?v=zbFsOWpGYRg&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=11)
 > - [12.Python Smart Contract Programming--multisign](https://www.youtube.com/watch?v=pcLRkzgY23U&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=12)
 > - [13.Python Smart Contract Programming--token](https://www.youtube.com/watch?v=8p4KTk8WYx0&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=13)
-
-
-# 联系方式
-![](images/IMG_1056.JPG)
