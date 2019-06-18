@@ -17,6 +17,7 @@
 > - [13.token](13.Python-Smart-Contract-Development--token.ipynb)
 > - [14.ABI](14.Python-Smart-Contract-Development--abi.ipynb)
 > - [15.pack&unpack](15.Python-Smart-Contract-Development--pack&unpack.ipynb)
+> - [16.crypto](16.Python-Smart-Contract-Development--crypto.ipynb)
 
 
 # Videos
@@ -36,4 +37,5 @@
 > - [13.token](https://www.youtube.com/watch?v=8p4KTk8WYx0&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=13)
 > - [14.ABI](https://www.youtube.com/watch?v=QhrYOBy0vLU&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=14)
 > - [15.pack&unpack](https://www.youtube.com/watch?v=_vhCAccJ11k&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=15)
+> - [16.crypto](https://www.youtube.com/watch?v=oTxN_B7Q2tI&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=16)
 
