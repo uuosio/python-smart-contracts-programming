@@ -39,5 +39,4 @@
 > - [14.ABI](https://www.youtube.com/watch?v=QhrYOBy0vLU&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=14)
 > - [15.pack&unpack](https://www.youtube.com/watch?v=_vhCAccJ11k&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=15)
 > - [16.crypto](https://www.youtube.com/watch?v=oTxN_B7Q2tI&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=16)
-> - [17.database-1](https://www.youtube.com/watch?v=HmY7pUO_PcA&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=17)
-
+> - [17.database-1](https://www.youtube.com/watch?v=3BZf5KmVXTI&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=17)
