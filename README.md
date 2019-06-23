@@ -2,7 +2,7 @@
 
 # Contents
 
-> - [1.environment](01.Environment.ipynb)
+> - [1.environment](01.environment.ipynb)
 > - [2.wallet](02.wallet.ipynb)
 > - [3.eosapi](03.eosapi.ipynb)
 > - [4.helloworld](04.helloworld.ipynb)
