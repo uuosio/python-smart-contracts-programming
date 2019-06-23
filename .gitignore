@@ -1,3 +1,7 @@
 .DS_Store
 .ipynb_checkpoints
-test.*
+test.cpp
+test.wasm
+test.obj
+test.wallet
+
