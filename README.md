@@ -22,7 +22,7 @@
 > - [18.database-2-multi-index](https://uuosio.github.io/python-smart-contract-programming/18.database-multiindex.html)
 > - [19.database-3-application](https://uuosio.github.io/python-smart-contract-programming/19.database-3-implementation.html)
 > - [20.call c++ code from python](https://uuosio.github.io/python-smart-contract-programming/20.call-c++-contract.html)
-> - [21.CPU-RAM-NET](https://uuosio.github.io/python-smart-contract-programming/21.CPU-RAM-NET.ipynb)
+> - [21.CPU-RAM-NET](https://uuosio.github.io/python-smart-contract-programming/21.CPU-RAM-NET.html)
 
 # Videos
 
