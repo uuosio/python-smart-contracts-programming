@@ -22,6 +22,7 @@
 > - [18.database-2-multi-index](https://uuosio.github.io/python-smart-contract-programming/18.database-multiindex.html)
 > - [19.database-3-application](https://uuosio.github.io/python-smart-contract-programming/19.database-3-implementation.html)
 > - [20.call c++ code from python](https://uuosio.github.io/python-smart-contract-programming/20.call-c++-contract.html)
+> - [21.CPU-RAM-NET](https://uuosio.github.io/python-smart-contract-programming/21.CPU-RAM-NET.ipynb)
 
 # Videos
 
@@ -45,5 +46,7 @@
 > - [18.database-2-multi-index](https://www.youtube.com/watch?v=BExVRvmI9UE&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=18)
 > - [19.database-3-application](https://www.youtube.com/watch?v=v0DLBu8U18s&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=19)
 > - [20.call c++ code from python](https://www.youtube.com/watch?v=Pioz4hzr-Tw&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=20)
+> - [21.CPU-RAM-NET](https://www.youtube.com/watch?v=l5gsNb4tggs&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=21)
+
 
 # Happy Coding!
