@@ -4,4 +4,4 @@ test.cpp
 test.wasm
 test.obj
 test.wallet
-
+__pycache__
