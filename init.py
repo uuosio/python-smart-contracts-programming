@@ -197,16 +197,20 @@ def publish_cpp_contract(account_name, code, abi='', includes = [], entry='apply
         r = eosapi.set_contract(account_name, code, abi, 0)
     return True
 
-def publish_contract(account_name, code, abi, vm_type=default_vm_type, includes = [], entry='apply'):
+def publish_py_contract(account_name, code, abi, vm_type=1, includes = [], entry='apply'):
+    m = hashlib.sha256()
+    code = compile(code, "contract", 'exec')
+    code = marshal.dumps(code)
+    m.update(code)
+    code_hash = m.hexdigest()
+    r = eosapi.get_code(account_name)
+    if code_hash != r['code_hash']:
+        eosapi.set_contract(account_name, code, abi, 1)
+    return True
+
+def publish_contract(account_name, code, abi, vm_type=1, includes = [], entry='apply'):
     if vm_type == 1:
-        m = hashlib.sha256()
-        code = compile(code, "contract", 'exec')
-        code = marshal.dumps(code)
-        m.update(code)
-        code_hash = m.hexdigest()
-        r = eosapi.get_code(account_name)
-        if code_hash != r['code_hash']:
-            eosapi.set_contract(account_name, code, abi, 1)
-        return True
+        return publish_py_contract(account_name, code, abi, 1)
     else:
         return publish_cpp_contract(account_name, code, abi, includes, entry)
+
