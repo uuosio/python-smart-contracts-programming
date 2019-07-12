@@ -24,7 +24,31 @@
 > - [20.从Python中调用C++代码](https://uuosio.github.io/python-smart-contract-programming/20.call-c++-contract.html)
 > - [21.CPU-RAM-NET](https://uuosio.github.io/python-smart-contract-programming/21.CPU-RAM-NET.html)
 
-# 视频教程
+# 视频教程(bilibili)
+
+> - [1.开发环境设置](https://www.bilibili.com/video/av54628632/?p=1)
+> - [2.wallet函数](https://www.bilibili.com/video/av54628632/?p=2)
+> - [3.eosapi函数](https://www.bilibili.com/video/av54628632/?p=3)
+> - [4.helloworld](https://www.bilibili.com/video/av54628632/?p=4)
+> - [5.name-transaction-action](https://www.bilibili.com/video/av54628632/?p=5)
+> - [6.常用函数](https://www.bilibili.com/video/av54628632/?p=6)
+> - [7.require_recipient函数](https://www.bilibili.com/video/av54628632/?p=7)
+> - [8.require_recipient函数-2](https://www.bilibili.com/video/av54628632/?p=8)
+> - [9.send_inline函数](https://www.bilibili.com/video/av54628632/?p=9)
+> - [10.deferred transaction](https://www.bilibili.com/video/av54628632/?p=10)
+> - [11.权限](https://www.bilibili.com/video/av54628632/?p=11)
+> - [12.多重签名](https://www.bilibili.com/video/av54628632/?p=12)
+> - [13.token](https://www.bilibili.com/video/av54628632/?p=13)
+> - [14.ABI](https://www.bilibili.com/video/av54628632/?p=14)
+> - [15.pack&unpack](https://www.bilibili.com/video/av54628632/?p=15)
+> - [16.密码学函数](https://www.bilibili.com/video/av54628632/?p=16)
+> - [17.数据存储-1](https://www.bilibili.com/video/av54628632/?p=17)
+> - [18.数据存储-2-多重索引](https://www.bilibili.com/video/av54628632/?p=18)
+> - [19.数据存储-3-应用](https://www.bilibili.com/video/av54628632/?p=19)
+> - [20.从Python中调用C++代码](https://www.bilibili.com/video/av54628632/?p=20)
+> - [21.CPU-RAM-NET](https://www.bilibili.com/video/av54628632/?p=21)
+
+# 视频教程(youtube)
 
 > - [1.开发环境设置](https://www.youtube.com/watch?v=pEj6Mikt7mE&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=1)
 > - [2.wallet函数](https://www.youtube.com/watch?v=5KxC7gfcDVo&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=2)
