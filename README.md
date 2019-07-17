@@ -27,8 +27,8 @@
 # 视频教程(bilibili)
 
 > - [1.开发环境设置](https://www.bilibili.com/video/av54628632/?p=1)
-> - [2.wallet函数](https://www.bilibili.com/video/av54628632/?p=2)
-> - [3.eosapi函数](https://www.bilibili.com/video/av54628632/?p=3)
+> - [2.wallet模块](https://www.bilibili.com/video/av54628632/?p=2)
+> - [3.eosapi模块](https://www.bilibili.com/video/av54628632/?p=3)
 > - [4.helloworld](https://www.bilibili.com/video/av54628632/?p=4)
 > - [5.name-transaction-action](https://www.bilibili.com/video/av54628632/?p=5)
 > - [6.常用函数](https://www.bilibili.com/video/av54628632/?p=6)
@@ -51,8 +51,8 @@
 # 视频教程(youtube)
 
 > - [1.开发环境设置](https://www.youtube.com/watch?v=pEj6Mikt7mE&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=1)
-> - [2.wallet函数](https://www.youtube.com/watch?v=5KxC7gfcDVo&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=2)
-> - [3.eosapi函数](https://www.youtube.com/watch?v=6cY0l4jn4eo&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=3)
+> - [2.wallet模块](https://www.youtube.com/watch?v=5KxC7gfcDVo&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=2)
+> - [3.eosapi模块](https://www.youtube.com/watch?v=6cY0l4jn4eo&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=3)
 > - [4.helloworld](https://www.youtube.com/watch?v=K-PO6ZFegfw&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=4)
 > - [5.name-transaction-action](https://www.youtube.com/watch?v=6RuIIx3QRYI&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=5)
 > - [6.常用函数](https://www.youtube.com/watch?v=sWftH27Vj-I&list=PLdU-2LVoFXHS5KSUwTCIya9GAiJ7BRXhf&index=6)
