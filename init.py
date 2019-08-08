@@ -58,7 +58,7 @@ def set_abi(account, abi):
 def find_eosio_cdt_path():
     eosio_cpp = shutil.which('eosio-cpp')
     if not eosio_cpp:
-        raise "eosio.cdt not installed, please refer to https://github.com/eosio/eosio.cdt for an installation guild"
+        raise "eosio.cdt not installed, please refer to https://github.com/eosio/eosio.cdt for an installation guide"
     eosio_cpp = os.path.realpath(eosio_cpp)
     eosio_cpp = os.path.dirname(eosio_cpp)
     return os.path.dirname(eosio_cpp)
@@ -72,7 +72,7 @@ class cpp_compiler(object):
         if not cpp_file.endswith('.cpp'):
             raise 'Not a cpp file'
 
-    def compile_cpp_file(self):
+    def compile_cpp_file(self, opt='O3'):
         tmp_path = self.cpp_file[:-4]
         #%system rm test.obj test.wasm
         #%system eosio-cpp -I/usr/local/Cellar/eosio.cdt/1.6.1/opt/eosio.cdt/include/eosiolib/capi -I/usr/local/Cellar/eosio.cdt/1.6.1/opt/eosio.cdt/include/eosiolib/core -O3 -contract test -o test.obj -c test.cpp
@@ -113,7 +113,7 @@ class cpp_compiler(object):
         '-c',
         f'-I{eosio_cdt_path}/include/eosiolib/capi',
         f'-I{eosio_cdt_path}/include/eosiolib/core',
-        '-O3',
+        f'-{opt}',
         '--std=c++17',
         ]
         for include in self.includes:
@@ -140,10 +140,19 @@ class cpp_compiler(object):
         f'{tmp_path}.wasm',
         f'--allow-undefined-file={eosio_cdt_path}/bin/../eosio.imports']
 
+        eosio_pp = [
+            f'{eosio_cdt_path}/bin/eosio-pp',
+            '-o',
+            f'{tmp_path}.wasm',
+            f'{tmp_path}.wasm',
+        ]
+
         try:
             ret = subprocess.check_output(clang_7_args, stderr=subprocess.STDOUT)
             print(ret.decode('utf8'))
             ret = subprocess.check_output(wasm_ld_args, stderr=subprocess.STDOUT)
+            print(ret.decode('utf8'))
+            ret = subprocess.check_output(eosio_pp, stderr=subprocess.STDOUT)
             print(ret.decode('utf8'))
         except subprocess.CalledProcessError as e:
             print("error (code {}):".format(e.returncode))
@@ -151,11 +160,11 @@ class cpp_compiler(object):
             return None
         return open(f'{tmp_path}.wasm', 'rb').read()
 
-def compile_cpp_file(src_path, includes=[], entry='apply'):
+def compile_cpp_file(src_path, includes=[], entry='apply', opt='O3'):
     compiler = cpp_compiler(src_path, includes, entry)
-    return compiler.compile_cpp_file()
+    return compiler.compile_cpp_file(opt)
 
-def compile_cpp_src(account_name, code, includes = [], entry='apply'):
+def compile_cpp_src(account_name, code, includes = [], entry='apply', opt='O3'):
     if not os.path.exists('tmp'):
         os.mkdir('tmp')
     src_path = os.path.join('tmp', account_name+'.cpp')
@@ -169,7 +178,7 @@ def compile_cpp_src(account_name, code, includes = [], entry='apply'):
                     return open(wasm_file, 'rb').read()
     with open(src_path, 'w') as f:
         f.write(code)
-    return compile_cpp_file(src_path, includes, entry)
+    return compile_cpp_file(src_path, includes, entry, opt=opt)
 
 def publish_cpp_contract_from_file(account_name, file_name, includes = [], entry='apply'):
     code = compile_cpp_file(file_name, includes, entry=entry)
@@ -186,15 +195,15 @@ def publish_cpp_contract_from_file(account_name, file_name, includes = [], entry
     return True
 #print(find_include_path())
 
-def publish_cpp_contract(account_name, code, abi='', includes = [], entry='apply'):
-    code = compile_cpp_src(account_name, code, includes, entry=entry)
+def publish_cpp_contract(account_name, code, abi='', includes = [], entry='apply', opt='O3',vm_type=0):
+    code = compile_cpp_src(account_name, code, includes, entry=entry, opt=opt)
     code = open(f'tmp/{account_name}.wasm', 'rb').read()
     m = hashlib.sha256()
     m.update(code)
     code_hash = m.hexdigest()
     r = eosapi.get_code(account_name)
     if code_hash != r['code_hash']:
-        r = eosapi.set_contract(account_name, code, abi, 0)
+        r = eosapi.set_contract(account_name, code, abi, vm_type)
     return True
 
 def publish_py_contract(account_name, code, abi, vm_type=1, includes = [], entry='apply'):
