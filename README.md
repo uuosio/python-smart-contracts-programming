@@ -23,6 +23,8 @@
 > - [19.数据存储-3-应用](https://uuosio.github.io/python-smart-contract-programming/19.database-3-implementation.html)
 > - [20.从Python中调用C++代码](https://uuosio.github.io/python-smart-contract-programming/20.call-c++-contract.html)
 > - [21.CPU-RAM-NET](https://uuosio.github.io/python-smart-contract-programming/21.CPU-RAM-NET.html)
+> - [22.链下调用代码](https://uuosio.github.io/python-smart-contract-programming/22-call-contract-offchain.html)
+> - [23.abi生成器](https://uuosio.github.io/python-smart-contract-programming/23-abi-generator.html)
 
 # 视频教程(bilibili)
 
@@ -98,6 +100,8 @@
 > - [19.database-3-application](https://uuosio.github.io/python-smart-contract-programming/19.database-3-implementation.html)
 > - [20.call c++ code from python](https://uuosio.github.io/python-smart-contract-programming/20.call-c++-contract.html)
 > - [21.CPU-RAM-NET](https://uuosio.github.io/python-smart-contract-programming/21.CPU-RAM-NET.html)
+> - [22.call contract offchain](https://uuosio.github.io/python-smart-contract-programming/22-call-contract-offchain.html)
+> - [23.abi generator](https://uuosio.github.io/python-smart-contract-programming/23-abi-generator.html)
 
 # Videos
 
