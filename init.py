@@ -19,3 +19,9 @@ config.setup_eos_test_network()
 
 python_contract = config.python_contract
 test_account1 = 'wkpmdjdsztyu'
+
+def run_test_code(code):
+    code = uuosapi.mp_compile(python_contract, code)
+    uuosapi.deploy_python_contract(python_contract, code, b'', deploy_type=1)
+    r = uuosapi.push_action(python_contract, 'sayhello', b'hello,world', {python_contract:'active'})
+    print(r['processed']['action_traces'][0]['console'])
