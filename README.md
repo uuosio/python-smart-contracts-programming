@@ -1,4 +1,4 @@
-# Python Smart Contract Programming
+# Python Smart Contracts Programming
 
 # Contents
 
