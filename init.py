@@ -18,7 +18,7 @@ wallet.import_key('test', '5JHRxntHapUryUetZgWdd3cg6BrpZLMJdqhhXnMaZiiT4qdJPhv')
 config.python_contract = 'hello'
 config.main_token = 'EOS'
 config.main_token_contract = 'eosio.token'
-uuosapi.set_node('http://testnode.uuos.network:8080')
+uuosapi.set_node('https://testnode.uuos.network:8443')
 
 python_contract = config.python_contract
 test_account1 = 'helloworld11'
